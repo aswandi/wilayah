@@ -9,5 +9,5 @@ tingkat :
 4 : kelurahan/desa
 
 
-
+data diambil dari https://github.com/aswandi/wilayahcahyadsn tanggal 12 maret 2025
 
